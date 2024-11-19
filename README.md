@@ -63,12 +63,7 @@
 </div>
 
  <h2> Dashboards: </h2>
-<table>
-  <tr>
-    <td>
-      <a href="https://git.io/streak-stats"><img height="180em" width = "400em" src="https://streak-stats.demolab.com?user=samarchandra&theme=dark" alt="GitHub Streak" /></a>
-    </td>
-    <td>
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=samarchandra&theme=dark" alt="GitHub Streak" /></a>
       <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=samarchandra&show_icons=true&theme=dark"
@@ -78,8 +73,6 @@
     srcset="https://github-readme-stats.vercel.app/api?username=samarchandra&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height="180em" width = "400em" src="https://github-readme-stats.vercel.app/api?username=samarchandra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=samarchandra&show_icons=true" />
 </picture>
-    </td>
-  </tr>
-</table>
+    
