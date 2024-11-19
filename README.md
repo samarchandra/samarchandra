@@ -7,14 +7,20 @@
     </summary>
   </ul>
 </div>
-<img src = 'https://github.com/samarchandra/samarchandra/blob/main/Assets/apple_nobg.gif' alt = 'AApple Logo' align='right' height=400/>
+
 
 ![Gmail Badge](https://img.shields.io/badge/samarc476%40gmail.com-EA4335?logo=Gmail&logoColor=white&link=mailto:samarc476%40gmail.com)
 ![LinkedIn Badge](https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsamar-chandra-5255651b3%2F)
 
 </p>
 <div id="toc">
-  <ul style="list-style: none">
+  
+</div>
+
+<table>
+  <tr>
+    <td valign="top">
+      <ul style="list-style: none">
     <summary>
       <h2> I can read and make sense out of code written in: </h2>
       <p>
@@ -30,4 +36,7 @@
       </p>
     </summary>
   </ul>
-</div>
+    </td>
+    <td valign="top"><img src = 'https://github.com/samarchandra/samarchandra/blob/main/Assets/apple_nobg.gif' alt = 'AApple Logo'/></td>
+  </tr>
+</table>
