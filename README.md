@@ -63,12 +63,12 @@
       public class WhoAmI {
        String user = "Samar Chandra";
        String currentWork = "developing Apple Applications";
-       List<String> hobbies = Arrays.asList(
+       String[] hobbies = new String[
            "Drawing",
            "Watching Anime",
            "Reading Sci-Fi Novels",
            "Being up all Night chasing that ONE BUG..."
-       );
+       ];
 
        public String getCity() {
            return "Bhubaneshwar, India";
