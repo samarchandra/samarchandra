@@ -104,4 +104,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=samarchandra&show_icons=true" />
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=samarchandra&layout=compact">
 </picture>
-    
+    <div id="toc" align="center">
+   <ul style="list-style: none">
+      <summary>
+         <h1> Find My Resume Here:</h1>
+         <p >
+          <img alt="Static Badge" src="https://img.shields.io/badge/Samar--Chandra-%23147EFB?style=for-the-badge&logo=readme&logoColor=white&link=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1JfmrIIsRrBgBBM1IvlYNPgTOQwLOelEf%2Fedit%3Fusp%3Dsharing%26ouid%3D118062025578639882916%26rtpof%3Dtrue%26sd%3Dtrue" height = 50>
+            </p>
+      </summary>
+   </ul>
+</div>
