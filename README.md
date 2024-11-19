@@ -2,7 +2,7 @@
 <div id="toc">
    <ul style="list-style: none">
       <summary>
-         <h1> I am a software developer currently developing <img src="https://github.com/samarchandra/samarchandra/blob/main/Assets/apple_icon_grey.svg" width="25" alt="Apple Logo"/> Applications </h1>
+         <h1> I am a software developer currently developing <img src="https://github.com/samarchandra/samarchandra/blob/main/Assets/apple_icon_grey.svg" width="25" alt="Apple Logo"/> Applications for <img src="https://github.com/samarchandra/samarchandra/blob/main/Assets/Comviva_Logo-removebg-preview.png" width=200></h1>
       </summary>
    </ul>
 </div>
