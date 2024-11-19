@@ -55,6 +55,32 @@
       </tr>
    </table>
 </div>
+
+ ## Who am I?
+ ```java
+      public class WhoAmI {
+       String user = "Samar Chandra";
+       String currentWork = "developing Apple Applications";
+       List<String> hobbies = Arrays.asList(
+           "Drawing",
+           "Watching Anime",
+           "Reading Sci-Fi Novels",
+           "Being up all Night chasing that ONE BUG..."
+       );
+
+       public String getCity() {
+           return "Bhubaneshwar, India";
+       }
+
+       public void ambitions() {
+           learnReactNative();
+           solveDSADaily();
+           finishMyUdemyCourses();
+           // Keeps Updating
+       }
+   }
+ ```
+
 <div id="toc">
          <h2> Coding Profile: </h2>
   <p>
@@ -74,5 +100,6 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=samarchandra&show_icons=true" />
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=samarchandra&layout=compact">
 </picture>
     
