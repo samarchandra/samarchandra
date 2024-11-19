@@ -1,14 +1,16 @@
 ## नमस्ते, It's me Samar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+![Gmail Badge](https://img.shields.io/badge/samarc476%40gmail.com-EA4335?logo=Gmail&logoColor=white&link=mailto:samarc476%40gmail.com)
+![LinkedIn Badge](https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsamar-chandra-5255651b3%2F)
 <div id="toc">
    <ul style="list-style: none">
       <summary>
-         <h1> I am a software developer currently developing <img src="https://github.com/samarchandra/samarchandra/blob/main/Assets/apple_icon_grey.svg" width="25" alt="Apple Logo"/> Applications for <img src="https://github.com/samarchandra/samarchandra/blob/main/Assets/Comviva_Logo-removebg-preview.png" width=200></h1>
+         <h1> I am a software developer currently developing <img src="https://github.com/samarchandra/samarchandra/blob/main/Assets/apple_icon_grey.svg" width="25" alt="Apple Logo"/> Applications for</h1>
+         <p align="center" >
+          <img src="https://github.com/samarchandra/samarchandra/blob/main/Assets/Comviva_Logo-removebg-preview.png" width=200>
+            </p>
       </summary>
    </ul>
 </div>
-
-![Gmail Badge](https://img.shields.io/badge/samarc476%40gmail.com-EA4335?logo=Gmail&logoColor=white&link=mailto:samarc476%40gmail.com)
-![LinkedIn Badge](https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsamar-chandra-5255651b3%2F)
 
 </p>
 <div id="toc" style="border-collapse: collapse; border: none;">
@@ -45,7 +47,7 @@
                   <h2> I use the following IDEs: </h2>
                </summary>
                <p>
-                 <img alt="Static Badge" src="https://img.shields.io/badge/Xcode-%23F05138?style=flat-square&logo=Swift&logoColor=white" height="25">
+                 <img alt="Static Badge" src="https://img.shields.io/badge/xcode-%23147EFB?style=flat-square&logo=xcode&logoColor=white"  height="25">
                  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25"/>
                  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" height="25"/>
                </p>
