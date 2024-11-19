@@ -19,7 +19,7 @@
          <td valign="top">
             <ul style="list-style: none">
                <summary>
-                  <h2> I can read and make sense out of code written in: </h2>
+                  <h2> I can read, make sense out of and edit code written in: </h2>
                </summary>
                <p>
                   <img alt="Static Badge" src="https://img.shields.io/badge/Swift-%23F05138?style=flat-square&logo=Swift&logoColor=white" height="25">
