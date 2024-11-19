@@ -63,7 +63,7 @@
 </div>
 
  <h2> Dashboards: </h2>
-      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=samarchandra&theme=dark" alt="GitHub Streak" /></a>
+      <a href="https://github.com/samarchandra"><img src="https://streak-stats.demolab.com?user=samarchandra&theme=dark" alt="GitHub Streak" /></a>
       <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=samarchandra&show_icons=true&theme=dark"
