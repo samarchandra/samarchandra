@@ -61,11 +61,12 @@
 <a href = "https://leetcode.com/u/samarc169/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
 </p> 
 </div>
+
  <h2> Dashboards: </h2>
 <table>
   <tr>
     <td>
-      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=samarchandra&theme=dark" alt="GitHub Streak" /></a>
+      <a href="https://git.io/streak-stats"><img height="180em" width = "400em" src="https://streak-stats.demolab.com?user=samarchandra&theme=dark" alt="GitHub Streak" /></a>
     </td>
     <td>
       <picture>
@@ -77,7 +78,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=samarchandra&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=samarchandra&show_icons=true" />
+  <img height="180em" width = "400em" src="https://github-readme-stats.vercel.app/api?username=samarchandra&show_icons=true" />
 </picture>
     </td>
   </tr>
